@@ -1,4 +1,8 @@
 print("Hello Github!")
 print("Pushing local commits to Github.")
 print("pushing commit 2")
-print("hello github")hello
+print("hello github")
+print("pushing commit 3")
+print("hello github!")
+print("pushhing commit 4")
+print("Hello github, once again!")
